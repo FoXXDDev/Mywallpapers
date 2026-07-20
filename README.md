@@ -1,7 +1,5 @@
 # Mywallpapers
-| col1 | col2 | col3 | col4 |
-| - | - | - | - |
-| ![0catppuccin1.png](https://github.com/FoXXDDev/Mywallpapers/blob/main/0catppuccin1.png) | ![0catppuccin2.jpg](https://github.com/FoXXDDev/Mywallpapers/blob/main/0catppuccin2.jpg) | ![0catppuccin3.png](https://github.com/FoXXDDev/Mywallpapers/blob/main/0catppuccin3.png) | ![0catppuccin6.png](https://github.com/FoXXDDev/Mywallpapers/blob/main/0catppuccin6.png) |
+These wallpapers are sourced from elsewhere and I make no claim to authorship; they may be used for your own purposes, as they were obtained from open sources.
 
 | col1 | col2 | col3 | col4 |
 | - | - | - | - |
